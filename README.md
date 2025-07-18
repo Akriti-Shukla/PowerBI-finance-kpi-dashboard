@@ -23,8 +23,7 @@ the dashboard highlights performance against targets : month over month, categor
 
 
 #### What I practiced
-
-- How to unpivot like a pro in Power Query  
+ 
 - Modeling multiple fact tables effectively  
 - Writing DAX for YTD, % Variance, and KPI measures  
 - Using DAX for dynamic titles & emoji indicators (`🟢` for positive trend, `🔴`for negative trend)  
